@@ -1,0 +1,15 @@
+# Python
+*.pyc
+*.pyo
+
+# Common IDEs
+*.swp
+.ropeproject
+.idea/
+.buildpath
+.project
+.settings
+atlassian-ide-plugin.xml
+.idea/*
+*.sublime-project
+*.sublime-workspace
